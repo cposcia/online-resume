@@ -73,6 +73,14 @@ certifications:
       credentialurl: 
       credentialname: 
       details: |
+    - name: IT-Security
+      start: 
+      end: Feb 2023
+      organization: Associazione Italiana per l'Informatica e il Calcolo Automatico
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
     - name: A-Level Mathematics
       start: 
       end: Nov 2022
@@ -81,6 +89,24 @@ certifications:
       credentialurl: 
       credentialname: 
       details: |
+    - name: IGCSE Mathematics
+      start: 
+      end: Nov 2020
+      organization: Cambridge International Education
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
+    - name: IGCSE Biology
+      start: 
+      end: Nov 2020
+      organization: Cambridge International Education
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
+
+
 
 skills:
   title: Skills & Proficiency
