@@ -3,113 +3,98 @@
 #
 
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar: left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Camilla Poscia
-    tagline: Mathematics student
-    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Camilla Poscia
+  tagline: Mathematics student
+  avatar: # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: c.poscia@studenti.unipi.it
-    phone: 
-    timezone: 
-    citizenship: Italian
-    website:  #do not add http://
-    linkedin: 
-    xing: 
-    github: cposcia04
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+  # Sidebar links
+  email: c.poscia@studenti.unipi.it
+  phone: 
+  timezone: 
+  citizenship: Italian
+  website: # do not add http://
+  linkedin: 
+  xing: 
+  github: cposcia04
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: 
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Italian
-          level: Native
-
-        - idiom: English
-          level: Professional
-
-        - idiom: Spanish
-          level: Limited
-
-        - idiom: French
-          level: Elementary
-
+  languages:
+    title: Languages
+    info:
+      - idiom: Italian
+        level: Native
+      - idiom: English
+        level: Professional
+      - idiom: Spanish
+        level: Limited
+      - idiom: French
+        level: Elementary
 
 education:
-    title: Education
-    info:
-      - degree: BSc in Mathematics
-        university: University of Pisa
-        time: 2023 - present
-        details: |
-        
-      - degree: Diploma of Scientific High School
-        university: IISS C.A. Dalla Chiesa
-        time: 2018 - 2023
-        details: |
-        
+  title: Education
+  info:
+    - degree: BSc in Mathematics
+      university: University of Pisa
+      time: 2023 - present
+      details: |
+    - degree: Diploma of Scientific High School
+      university: IISS C.A. Dalla Chiesa
+      time: 2018 - 2023
+      details: |
 
 certifications:
-      title: Certifications
-      list:
-        - name: First Certificate in English
-          start: 
-          end: Jul 2023
-          organization: Cambridge University and Assessment English
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-           
-        - name: ICDL Full Standard
-          start: 
-          end: Feb 2023
-          organization: Associazione Italiana per l'Informatica e il Calcolo Automatico
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-
-        - name: A-Level Mathematics
-          start: 
-          end: Nov 2022
-          organization: Cambridge International Education
-          credentialid: 
-          credentialurl: 
-          credentialname: 
-          details: |
-        
-
+  title: Certifications
+  list:
+    - name: First Certificate in English
+      start: 
+      end: Jul 2023
+      organization: Cambridge University and Assessment English
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
+    - name: ICDL Full Standard
+      start: 
+      end: Feb 2023
+      organization: Associazione Italiana per l'Informatica e il Calcolo Automatico
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
+    - name: A-Level Mathematics
+      start: 
+      end: Nov 2022
+      organization: Cambridge International Education
+      credentialid: 
+      credentialurl: 
+      credentialname: 
+      details: |
 
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
+  title: Skills & Proficiency
+  toolset:
     - name: Microsoft Excel
-        level: 100%
-        
-      - name: LaTeX
-        level: 90%
-
-      - name: C (programming language)
-        level: 70%
-
-      - name: JavaScript
-        level: 50%
-
-      - name: HTML5 
-        level: 50%
+      level: 100%
+    - name: LaTeX
+      level: 90%
+    - name: C (programming language)
+      level: 70%
+    - name: JavaScript
+      level: 50%
+    - name: HTML5
+      level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
